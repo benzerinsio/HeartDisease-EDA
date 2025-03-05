@@ -3,7 +3,7 @@
 
 Bem-vindo(a)! Este repositório apresenta uma **Análise Exploratória de Dados (EDA)** no conjunto de dados Heart Disease UCI, investigando fatores clínicos e sua relação com a presença de doença cardíaca.
 
-🔗 [Visualizar o Notebook](https://github.com/benzerinsio/HeartDisease-EDA/blob/main/EDA-BreastCancer.ipynb)
+🔗 [Visualizar o Notebook](https://github.com/benzerinsio/HeartDisease-EDA/blob/main/EDA-HeartDisease.ipynb)
 
 ## 🎯 Objetivo da Análise
 
